@@ -1,2 +1,2 @@
 # tyconzAI
-Bot theat is built on Microsoft bot framework
+Bot that is built on Microsoft bot framework
